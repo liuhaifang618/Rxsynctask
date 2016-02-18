@@ -5,7 +5,7 @@
 #Usage
 
 ```java
-        protected void showInitRefresh() {
+    protected void showInitRefresh() {
         RxAysnTaskManger rxAysnTaskManger = RxAysnTaskManger.getInstance();
 
         rxAysnTaskManger.publishTask(new RxAysnTask<List<CheckTask>>() {
