@@ -1,6 +1,6 @@
 # Rxsynctask
 
-#### 使用Rxbus，采用volley设计思路实现的异步线程。防止使用Asyntask 产生的内存泄露。
+#### 使用Rxbus，采用volley设计思路实现的异步操作库。防止使用Asyntask 产生的内存泄露。
 
 #Usage
 
